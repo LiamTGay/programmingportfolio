@@ -13,6 +13,6 @@
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience.
 
-![GamePlay](https://github.com/LiamTGay/programmingportfolio/blob/main/images/SG1.png)
+[GamePlay](https://github.com/LiamTGay/programmingportfolio/blob/main/images/SG1.png)
 
 [Source Code](https://github.com/LiamTGay/programmingportfolio/blob/main/src/SpaceGame%205.zip)
