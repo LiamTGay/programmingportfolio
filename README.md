@@ -2,7 +2,7 @@
 
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
-1[USOECertification](https://github.com/LiamTGay/programmingportfolio/blob/main/images/ComputerProgrammingCert.png)
+![USOECertification](https://github.com/LiamTGay/programmingportfolio/blob/main/images/ComputerProgrammingCert.png)
 
 ## Group Project
 
