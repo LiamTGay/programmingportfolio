@@ -1,6 +1,8 @@
 # Liam Gay's Programming Portfolio 2024
 
 ## Tech Certifications
+* Computer Programming 1 USOE State Certification
+1[USOECertification]()
 
 ## Group Project
 
