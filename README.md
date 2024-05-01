@@ -15,6 +15,11 @@ This project was done with a group of amazing people!
 Link: https://github.com/LiamTGay/Adventure-Story.git
 
 ## Individual Projects
+World Guesser!
+
+World Guesser is an interactive game in witch the player will be given and image, and they choose on a map where that image was taken. The user can decide on Cities, Countries, Lakes, And Mountains!
+
+Link: https://github.com/LiamTGay/World-Guesser.git
 
 ### SpaceGame:
 OOP graphical game using sound and images for a full user experience.
