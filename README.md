@@ -9,8 +9,11 @@
 
 ## Group Project
 Adventure Game
+
 This project was done with a group of amazing people!
+
 Link: https://github.com/LiamTGay/Adventure-Story.git
+
 ## Individual Projects
 
 ### SpaceGame:
