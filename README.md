@@ -3,7 +3,7 @@
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
 
-![Computer Programming Cert Image](https://github.com/LiamTGay/programmingportfolio/blob/main/images/Liam%20Gay_Computer%20Programming%20I_12182023.pdf)
+![images/Liam Gay_Computer Programming I_12182023.pdf)
 
 * TEST
 
